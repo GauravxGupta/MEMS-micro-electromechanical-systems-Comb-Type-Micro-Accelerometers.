@@ -1,0 +1,2 @@
+# MEMS-micro-electromechanical-systems-Comb-Type-Micro-Accelerometers.
+My summer internship at DRDO's Solid State Physics Laboratory, I worked on the sensitivity analysis of a comb-type MEMS micro-accelerometer. I analyzed how design parameters like beam width and beam length affect device sensitivity, and performed MATLAB-based simulations to study performance metrics including range, bandwidth and noise levels
